@@ -1,0 +1,5 @@
+Book1 = https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ/ref=sr_1_24?dib=eyJ2IjoiMSJ9.n2fWDqC2MPrH4do_Gu-ATR6zra4aDX6i0NgUwYwIqaO44oSJH-RYgN2_epRpy0IXXW1eUCfZtoHcoTBxsjOVU3HY5-JfD09HVBtVkWvsBRJejfXC-btAD1dDyrNrfOxG_mePH1Mz9YBs7QGW3uTw5sqAjtt_b0InYjcanHEMjdv4Dvh7o0f1P0y34mU7sbVJuDMJcUD953axvySoC5wLgfytw1iTz4sPm0JEjl5tUNUTbrTnn4BwulGuYufLYcFk2LIQVShVGhjEnoXafGi5nD1c0tL1jAUiHsh8fa8hbrS-y-Icb7zVPFuDESOf8CXTaO9gaGRDdqbc2aTpfiK7GDLzpr0ToT1F1vwUUU1V-Q3WCDAT1bwhZHPl9G5fuydhMAixOdiJD57HrNcKhwwgSm5jFzkJlLORLb-O6UNvXSo2LIFOQkws9gFyPGlQRaPj.PNj2EL-JolV-B2WhQoOHmUW2yQFcHllKcgP4w0qvAZA&dib_tag=se&keywords=harry+potter+books&qid=1739987042&sr=8-24
+Book2 = https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681
+Book3 = https://www.amazon.com/Midnight-Library-Novel-Matt-Haig/dp/0525559477
+Book4 = https://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485
+Book5 = https://www.amazon.com/Fifty-Shades-Darker-L-James/dp/0345803493

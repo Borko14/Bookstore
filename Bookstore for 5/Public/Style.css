@@ -1,0 +1,63 @@
+html {
+    font-family: Arial, sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1 {
+    margin: 0 auto 30px auto;
+    color: hsl(192, 78%, 50%);
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+    font-size: 60px;
+}
+
+.book-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 10px;
+    padding: 20px 0;
+}
+
+.book {
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.book:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.book img:not(.book-image) {
+    width: 100%;
+    height: auto;
+}
+
+.book-image {
+    width: 241px;
+    height: 329px;
+    object-fit: cover;
+    display: block;
+    border-radius: 6px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 18px;
+    color: #009688;
+    margin-top: 10px;
+}
